@@ -15,4 +15,4 @@
 -Portfolio Strategy Analyst @ Monster Energy
 
 ### Projects
-In Progress
+In Progress!
