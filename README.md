@@ -1,15 +1,14 @@
 # Data Engineer
 
 ### Education
-Sports Business, MBA
-Biochemistry, BS
-Economics, BA 
+University of Oregon, Sports Business, MBA
+Syracuse University, Biochemistry, BS
+Syracuse University, Economics, BA 
 
 ### Work Experience 
-
 Data Engineer @ VIZIO
-- big impact project 1!
-- big impact project 2!
+Business Marketing Analyst @ Western Digital
+Portfolio Strategy Analyst @ Monster Energy
 
 ### Projects
-End to End Data Pipeline
+In Progress
