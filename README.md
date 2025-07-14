@@ -15,4 +15,4 @@
 -Portfolio Strategy Analyst @ Monster Energy
 
 ### Projects
-In Progress!
+1. PostGres Table with Airflow 
