@@ -15,4 +15,4 @@
 -Portfolio Strategy Analyst @ Monster Energy
 
 ### Projects
-1. PostGres Table with Airflow 
+1. Snowflake and dbt demo
