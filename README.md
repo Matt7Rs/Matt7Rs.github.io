@@ -1,4 +1,5 @@
 # Matt Salminen: Data Engineer
+Current Data Engineer with specialized past experience with marketing and IOT related projects. Analytics minded with a focus on accomplishing business objectives with data.
 
 ### Current Tech Stack
 -AWS, Databricks, Snowflake, Dbt, Tableau, ThoughtSpot, Airflow
