@@ -31,3 +31,7 @@
 -Syracuse University, Biochemistry, BS
 
 -Syracuse University, Economics, BA 
+
+### Hobbies
+-Competitive Marathon Runner (PB: 2:37:22)
+-Valor Track Club
