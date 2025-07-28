@@ -1,18 +1,33 @@
 # Data Engineer
 
+### Current Tech Stack
+-AWS, Databricks, Snowflake, Dbt, Tableau, ThoughtSpot, Airflow
+
+### Current Programming Languages
+-SQL, Python
+
+### Certifications
+- Databricks Data Engineering Associate
+- Google Analytics
+- Alteryx Credentialed
+- Snowflake SnowPro Core (in progress)
+- Dbt Analytics Engineer (in progress)
+- Astronomer Airflow 101 (in progress)
+
+### Projects
+1. Snowflake and dbt demo (in progress)
+2. Airflow Postgres table (in progress)
+
+### Work Experience 
+-Data Engineer @ VIZIO/Walmart 
+
+-Business Marketing Analyst @ Western Digital
+
+-Portfolio Strategy Analyst/Specialist @ Monster Energy
+
 ### Education
 -University of Oregon, Sports Business, MBA
 
 -Syracuse University, Biochemistry, BS
 
 -Syracuse University, Economics, BA 
-
-### Work Experience 
--Data Engineer @ VIZIO
-
--Business Marketing Analyst @ Western Digital
-
--Portfolio Strategy Analyst @ Monster Energy
-
-### Projects
-1. Snowflake and dbt demo
